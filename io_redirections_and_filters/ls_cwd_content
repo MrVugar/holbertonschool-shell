@@ -1,1 +1,29 @@
 ls -la
+total 108
+drwxr-xr-x 2 root root 4096 Oct 16 06:07 .
+drwxr-xr-x 6 root root 4096 Oct 16 05:47 ..
+-rwxr-xr-x 1 root root   32 Oct 16 05:47 0-hello_world
+-rwxr-xr-x 1 root root   28 Oct 16 05:47 1-confused_smiley
+-rwxr-xr-x 1 root root   48 Oct 16 05:47 10-no_more_js
+-rwxr-xr-x 1 root root   47 Oct 16 05:47 11-directories
+-rwxr-xr-x 1 root root   31 Oct 16 05:47 12-newest_files
+-rwxr-xr-x 1 root root   27 Oct 16 05:47 13-unique
+-rwxr-xr-x 1 root root   36 Oct 16 05:47 14-findthatword
+-rwxr-xr-x 1 root root   38 Oct 16 06:04 15-countthatword
+-rwxr-xr-x 1 root root   41 Oct 16 06:07 16-whatsnext
+-rwxr-xr-x 1 root root   38 Oct 16 05:47 17-hidethisword
+-rwxr-xr-x 1 root root   49 Oct 16 05:47 18-letteronly
+-rwxr-xr-x 1 root root   27 Oct 16 05:47 19-AZ
+-rwxr-xr-x 1 root root   28 Oct 16 05:47 2-hellofile
+-rwxr-xr-x 1 root root   23 Oct 16 05:47 20-hiago
+-rwxr-xr-x 1 root root   16 Oct 16 05:47 21-reverse
+-rwxr-xr-x 1 root root   56 Oct 16 05:47 22-users_and_homes
+-rwxr-xr-x 1 root root   39 Oct 16 05:47 3-twofiles
+-rwxr-xr-x 1 root root   35 Oct 16 05:47 4-lastlines
+-rwxr-xr-x 1 root root   35 Oct 16 05:47 5-firstlines
+-rwxr-xr-x 1 root root   41 Oct 16 05:47 6-third_line
+-rwxr-xr-x 1 root root   80 Oct 16 05:47 7-file
+-rwxr-xr-x 1 root root   37 Oct 16 05:47 8-cwd_state
+-rw-r--r-- 1 root root   38 Oct 16 05:47 README.md
+-rw-r--r-- 1 root root   12 Oct 16 05:47 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    7 Oct 16 05:47 ls_cwd_content
